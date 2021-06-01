@@ -1,4 +1,4 @@
-flask==0.10.1
+flask==1.0
 avro==1.7.6
 fastavro==0.7.7
 -e git+git@github.com:quarryio/mixingboard.git#egg=mixingboard
